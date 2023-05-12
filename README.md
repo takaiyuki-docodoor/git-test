@@ -1,3 +1,3 @@
 # git-test
 
-# git-test2
+これは git の練習です
